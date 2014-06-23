@@ -22,7 +22,7 @@ and an x offset of 30 (taskbar at the top of the screen).
 rc.xml
 ------
 
-Tiling is done via meta + numpad, where the position of the numpad key corresponds
+Tiling is done via super + numpad, where the position of the numpad key corresponds
 to the desired direction of tiling.  
 
 Snippet of my rc.xml.  
