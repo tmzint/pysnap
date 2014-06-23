@@ -27,6 +27,7 @@ to the desired direction of tiling.
 
 Snippet of my rc.xml.  
 
+```xml
 <keyboard>
 
   ...
@@ -88,3 +89,4 @@ Snippet of my rc.xml.
   ...
 
 </keyboard>
+```
