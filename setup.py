@@ -5,10 +5,10 @@ from setuptools import setup
 # you may need setuptools instead of distutils
 
 try:
-    import Xlib.display, gtk
+    import Xlib.display, gtk, getopt
 except:
     print ''
-    print 'pysnap requires python-xlib and python-gtk'
+    print 'pysnap requires python: xlib, gtk and getopt'
     sys.exit(0)
 
 setup(
