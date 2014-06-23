@@ -9,8 +9,7 @@ Usage:
 -b or --offWidth: offset of width (relation to full horizontal span)  
 -x or --offX: offset of x coordinate  
 -y or --offY: offset of y coordinate  
--d or --direction: 0 = UP, 1 = RIGHT, 2 = DOWN, 3 = LEFT, 4 = UP_RIGHT, 5 = DOWN_RIGHT, 6 = DOWN_LEFT, 7 = UP_LEFT, 8 = ALL  
--h or --help: this screen  
+-d or --direction: 0 = UP, 1 = RIGHT, 2 = DOWN, 3 = LEFT, 4 = UP_RIGHT, 5 = DOWN_RIGHT, 6 = DOWN_LEFT, 7 = UP_LEFT, 8 = ALL
 
 Example:
 ------
