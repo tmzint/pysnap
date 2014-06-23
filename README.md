@@ -16,7 +16,7 @@ Example:
 pysnap.py -a -30 -y 30 -d 3  
 Tile current focused window to the Left (full vertical, half horizontal),
 with an height offset over the full vertical span of -30px (30px horizontal taskbar)
-and an x offset of 30 (taskbar at the top of the screen).  
+and an y offset of 30 (taskbar at the top of the screen).  
 
 rc.xml
 ------
